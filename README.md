@@ -168,4 +168,4 @@ Congrats! You made it. Test that your method works by running `ruby
 bin/contacts` in the terminal. It should output the hash without strawberry ice
 cream. Also, be sure to run the specs to make sure they pass.
 
-[rubydocs]: https://docs.ruby-lang.org/en/2.0.0/Hash.html#method-i-delete_if
+[rubydocs]: 
